@@ -20,3 +20,5 @@ Open `index.html` in any modern browser — no build step, no internet required.
 - Built-in teaching reference table.
 
 *Educational use only — not a substitute for clinical judgement or device manuals.*
+
+<!-- pages rebuild trigger -->
